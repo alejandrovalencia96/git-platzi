@@ -1,3 +1,4 @@
 # git-platzi
 
-Mi repositorio!
+Mi repositorio. Yujuu!
+Mi primera contribución local para Github
